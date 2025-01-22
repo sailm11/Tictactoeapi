@@ -1,0 +1,6 @@
+com\assessment\tictactoe\config\SecurityConfig.class
+com\assessment\tictactoe\entity\UserInfoDetails.class
+com\assessment\tictactoe\model\User.class
+com\assessment\tictactoe\TictactoeApplication.class
+com\assessment\tictactoe\repository\UserRepository.class
+com\assessment\tictactoe\service\UserService.class
